@@ -1,0 +1,5 @@
+PySide6==6.7.2
+psutil==5.9.8
+pywin32==306
+wmi==1.5.1
+scapy==2.5.0
